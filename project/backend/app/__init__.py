@@ -1,0 +1,3 @@
+ """
+ Healthcare Platform backend package.
+ """
